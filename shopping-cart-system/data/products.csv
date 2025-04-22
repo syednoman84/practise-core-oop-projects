@@ -1,0 +1,11 @@
+id,name,price,stock
+P100,Laptop,1200.00,5
+P200,Smartphone,800.00,7
+P300,Headphones,150.00,15
+P400,Mouse,25.00,11
+P500,Keyboard,45.00,30
+P600,Monitor,900.00,50
+P700,Hard-Drive,300.00,110
+P800,Camera,350.00,105
+P900,Airpods,250.00,190
+P1000,AirMax,450.00,250

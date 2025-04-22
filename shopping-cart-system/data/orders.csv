@@ -1,0 +1,4 @@
+timestamp,product_id,product_name,quantity,unit_price,total_price,payment_method
+2025-04-22 08:35:30,P200,Smartphone,3,800.00,2400.00,PayPal
+2025-04-22 08:35:30,P400,Mouse,9,25.00,225.00,PayPal
+2025-04-22 08:35:30,P900,Airpods,10,250.00,2500.00,PayPal
